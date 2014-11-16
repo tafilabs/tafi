@@ -1,0 +1,33 @@
+{
+  "name": "util",
+  "version": "1.0.10.1.1",
+  "description": "A node.js module that provides a collection of simple, shared, common functionality",
+  "main": "index.js",
+  
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tafilabs/util.git"
+  },
+
+  "author": "Mike Fine <mfine@tafilabs.com>",
+  "license": "Proprietary by TAFILabs and Mike Fine",
+
+  "dependencies": {
+    "underscore": "~1.5.1",
+    "html-entities": "~1.1.1",
+    "request": "~2.27.0",
+    "async": "~0.2.9",
+    "mysql": "~2.1.0",
+    "configurator": "https://github.com/tafilabs/configurator.git#v0.1.1"
+  },
+
+  "devDependencies": {
+    "mocha": "~1.20.1",
+    "chai": "~1.9.1"
+  },
+
+  "scripts": {
+    "start": "echo \"Error: not meant to be run stand-alone\" && exit 1",
+    "test": "./node_modules/.bin/mocha"
+  }
+}
