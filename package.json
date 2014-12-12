@@ -1,6 +1,6 @@
 {
   "name": "tafi",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A node.js module that provides a collection of simple, shared, common functionality",
   "main": "index.js",
   
