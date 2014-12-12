@@ -18,7 +18,7 @@
     "request": "~2.27.0",
     "async": "~0.2.9",
     "mysql": "~2.1.0",
-    "configurator": "https://github.com/tafilabs/configurator.git#v1.0.1"
+    "configurator": "git+https://github.com/tafilabs/configurator.git#v1.0.1"
   },
 
   "devDependencies": {
