@@ -15,7 +15,7 @@ describe('TAFI', function() {
   describe('.doSomething1()', function() {
 
     it('should return null if blah', function() {
-      assert.equal(util.doStomething1(17, 22), 39);
+      assert.equal(tafi.doStomething1(17, 22), 39);
     });
 
   });

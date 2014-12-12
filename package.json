@@ -1,12 +1,12 @@
 {
-  "name": "util",
-  "version": "1.0.10.1.1",
+  "name": "tafi",
+  "version": "1.0.1",
   "description": "A node.js module that provides a collection of simple, shared, common functionality",
   "main": "index.js",
   
   "repository": {
     "type": "git",
-    "url": "https://github.com/tafilabs/util.git"
+    "url": "https://github.com/tafilabs/tafi.git"
   },
 
   "author": "Mike Fine <mfine@tafilabs.com>",
@@ -18,7 +18,7 @@
     "request": "~2.27.0",
     "async": "~0.2.9",
     "mysql": "~2.1.0",
-    "configurator": "https://github.com/tafilabs/configurator.git#v0.1.1"
+    "configurator": "https://github.com/tafilabs/configurator.git#v1.0.1"
   },
 
   "devDependencies": {
